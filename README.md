@@ -1,5 +1,11 @@
 # Google Maps Swift Package
 
+## Notes
+* This repository is a raw copy of https://github.com/vfn/GoogleMaps-SP/tree/5.0.0-M1
+* Forking was not an option, I had to copy it since SPM do not support adding forked github repos to Xcode projects as swift packages... Thank you SPM...
+
+# Original README content
+
 ## Requirements
 * [iOS 10.0](https://wikipedia.org/wiki/IOS_10) or later.
 * [Xcode 12.0](https://developer.apple.com/xcode) or later.
